@@ -14,4 +14,5 @@
     [<祝东风> (by: (CE 1032) 欧阳 修; (CE 2023) 辛 晓娟, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/祝东风.txt)<br/>
     [&lt;Water Tone Head> (<水调歌头>) (CE 1076-09-21) (by: 苏 轼)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/水调歌头.txt)<br/>
     [&lt;Frosty Moon> (<霜月>) (CE 2023-11) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/霜月.txt)<br/>
+    [&lt;Accompanying Morning Court of Palace Great Brilliancy> (<和早朝 大明宫>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/和早朝%20大明宫.txt)<br/>
     [&lt;Vain> (<罔>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/罔.txt)
