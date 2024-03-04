@@ -1,0 +1,15 @@
+= <True View> (<大观>) (by: (~ CE 1790) 曹 雪芹; (CE 2024-03) Master ?) =
+
+	明夜清辉下: 芳寂冷园中.
++	Bright night clear aura spills: Fragrance stilled cold garden amid.
+	寒塘孤鹤影: 冷月葬花魂.
++	Frosty pond lonely crane shadow: Cold moon buried flowery souls.
+
+----
+
+	Debugging reference:
+[[
+	寒塘渡鹤影. 冷月葬花魂.
++	In the cold pond water hides a lonely crane. By the solemn moonlight rest those poor flowery souls.
+]]
+	The algorithm for deriving the content has been long modified.
