@@ -8,3 +8,11 @@
 +	Intending exhaust thousands Lǐ view:
 	更上一层楼.
 +	Moreover up one more level.
+
+----
+
+	For debugging interests:
+[[
+	White sun by the mountain ends.
+	Yellow River rushes into the ocean.
+]]
