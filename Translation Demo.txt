@@ -1,0 +1,457 @@
+= Translation Demo =
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>), #15 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1182
+	子曰: [
+	参 乎! 吾道一以贯之? ]
+<^>	曾 子 曰: [
+	唯. ]
+	.
+	子出. 门人问曰: [
+	何谓也? ]
+<^>	曾 子 曰: [
+	夫子之道, 忠恕而已矣. ]
+
+	[
+	Master said: [
+	O Shēn (参)! To summarize my path in single statement? ]
+<^>	Master Zēng (曾 参) said: [
+	Oui. ]
+	.
+	Master went out. Whose disciples asked said: [
+	What said? ]
+<^>	Master Zēng (曾) said: [
+	The master's path, no more than being faithful benevolent. ] ] ]
+
+----
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>), #15 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1182
+	子曰: [
++	Master said:
+	参 乎! 吾道一以贯之? ]
++	O Shēn (参)! To summarize my path in single statement?
+<^>	曾 子 曰: [
++	Master Zēng (曾 参) said:
+	唯. ]
++	Oui.
+	.
+	子出. 门人问曰: [
++	Master went out. Whose disciples asked said:
+	何谓也? ]
++	What said?
+<^>	曾 子 曰: [
++	Master Zēng (曾) said:
+	夫子之道, 忠恕而已矣. ]
++	The master's path, no more than being faithful benevolent. ]
+
+----
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>), #15 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1182
+	Master said: [
++	Maître dit:
+	O Shēn (参)! To summarize my path in single statement? ]
++	O Shēn (参)! Résumer mon chemin en seule déclaration?
+<^>	Master Zēng (曾 参) said: [
++	Maître Zēng (曾 参) dit:
+	Oui. ]
++	Oui.
+	.
+	Master went out. Whose disciples asked said: [
++	Maître sortit. Dont disciples ont demandé dit:
+	What said? ]
++	Que dit?
+<^>	Master Zēng (曾) said: [
++	Maître Zēng (曾) dit:
+	The master's path, no more than being faithful benevolent. ]
++	Le chemin du maître, pas plus qu'être fidèle bienveillant. ]
+
+----
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>), #15 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1182
+	子曰: [
+en:	Master said:
+fr:	Maître dit:
+	参 乎! 吾道一以贯之? ]
+en:	O Shēn (参)! To summarize my path in single statement?
+fr:	O Shēn (参)! Résumer mon chemin en seule déclaration?
+<^>	曾 子 曰: [
+en:	Master Zēng (曾 参) said:
+fr:	Maître Zēng (曾 参) dit:
+	唯. ]
+en:	Oui.
+fr:	Oui.
+	.
+	子出. 门人问曰: [
+en:	Master went out. Whose disciples asked said:
+fr:	Maître sortit. Dont disciples ont demandé dit:
+	何谓也? ]
+en:	What said?
+fr:	Que dit?
+<^>	曾 子 曰: [
+en:	Master Zēng (曾) said:
+fr:	Maître Zēng (曾) dit:
+	夫子之道, 忠恕而已矣. ]
+en:	The master's path, no more than being faithful benevolent.
+fr:	Le chemin du maître, pas plus qu'être fidèle bienveillant. ]
+
+
+
+
+== 1 ==
+
+[[
+	"气候": "气" 为节气.
+	24 节气, 每节气 3 候:
+	|*| 5 日 为 1 候
+	|*| 3 候 为 1 节
+	|*| 6 节 为 1 时
+	|*| 4 时 为 1 岁
+
++	"气候" ("climate"): "气" as the Climate Terms.
++	24 Climate Terms, each Climate Term 3 Scenes:
++	|*| 5 Days as 1 Scene
++	|*| 3 Scenes as 1 Term
++	|*| 6 Terms as 1 Season
++	|*| 4 Seasons as 1 Year
+]]
+
+----
+
+[[
+	"气候": "气" 为节气.
+	24 节气, 每节气 3 候:
+	|*| 5 日 为 1 候
+	|*| 3 候 为 1 节
+	|*| 6 节 为 1 时
+	|*| 4 时 为 1 岁
+
+[ "en"
+	"气候" ("climate"): "气" as the Climate Terms.
+	24 Climate Terms, each Climate Term 3 Scenes:
+	|*| 5 Days as 1 Scene
+	|*| 3 Scenes as 1 Term
+	|*| 6 Terms as 1 Season
+	|*| 4 Seasons as 1 Year ]
+]]
+
+----
+
+[[
+	"气候": "气" 为节气.
++	"气候" ("climate"): "气" as the Climate Terms.
+	24 节气, 每节气 3 候:
++	24 Climate Terms, each Climate Term 3 Scenes:
+	|*| 5 日 为 1 候
++	5 Days as 1 Scene
+	|*| 3 候 为 1 节
++	3 Scenes as 1 Term
+	|*| 6 节 为 1 时
++	6 Terms as 1 Season
+	|*| 4 时 为 1 岁
++	4 Seasons as 1 Year
+]]
+
+
+
+
+== 2 ==
+
+[[
+	屈 原 既放, 游于江潭, 行吟泽畔: 颜色憔悴, 形容枯槁.
+	渔父见而问之曰: [
+	子非三闾大夫与? 何故至于斯?! ]
+<^>	屈 原 曰: [
+	举世皆浊我独清. 众人皆醉我独醒.
+	是以见放! ]
+<^>	渔父曰: [
+	圣人不凝滞于物, 而能与世推移.
+	世人皆浊, 何不淈其泥而扬其波?
+	众人皆醉, 何不哺其糟而啜其醨?
+	何故深思高举, 自令放为? ]
+<^>	屈 原 曰: [
+	吾闻之: 新沐者必弹冠, 新浴者必振衣; 安能以身之察察, 受物之汶汶者乎?!
+	宁赴 湘 流, 葬于江鱼之腹中: 安能以皓皓之白, 而蒙世俗之尘埃乎?! ]
+<^>	渔父莞尔而笑, 鼓枻而去. 乃歌曰: [
+	沧浪 之水清兮: 可以濯吾缨.
+	沧浪 之水浊兮: 可以濯吾足. ]
+<.>	遂去不复与言.
+
+	[
+	Qū Yuán (屈 原) since exiled, touring at lakes, making poems by riverside: colors languid, appearance shriveled.
+	Fisher saw and asked whom said: [
+	Are not your Excellency the 3 Branches Giant Officer? How did end up such way?! ]
+<^>	Qū Yuán (屈 原) said: [
+	Whole world deeply muddled I alone untainted. All people seriously drunk I alone sober.
+	Thus exiled! ]
+<^>	Fisher said: [
+	Enlightened do not stagnate over the material, but (thus) able to readapt and last with the world.
+	Whole world deeply muddled, why not muddle whose mud and forward whose wash?
+	All people seriously drunk, why not taste whose dregs and test whose murk?
+	Why thought profundity practiced high, self caused such exile? ]
+<^>	Qū Yuán (屈 原) said: [
+	I heard that: newly hair-washed must shove the hat, newly body-bathed must shake the suit; how could with a body cleansed, bearing the items of indecency?!
+	Rather toward Xiāng's (湘) flow, befallen river fishes' gut: how could with the shinning white, bearing the dust of vanity?! ]
+<^>	Fisher lightly smiled, paddled oars leaving. And sang: [
+	Water of Cāng-Láng (沧浪) clear: may wash clean my ribbon.
+	Water of Cāng-Láng (沧浪) murky: may wash clean my feet. ]
+<.>	Thus left saying no more. ]
+]]
+
+----
+
+[[
+	屈 原 既放, 游于江潭, 行吟泽畔: 颜色憔悴, 形容枯槁.
++	Qū Yuán (屈 原) since exiled, touring at lakes, making poems by riverside: colors languid, appearance shriveled.
+	渔父见而问之曰: [
++	Fisher saw and asked whom said:
+	子非三闾大夫与? 何故至于斯?! ]
++	Are not your Excellency the 3 Branches Giant Officer? How did end up such way?!
+<^>	屈 原 曰: [
++	Qū Yuán (屈 原) said:
+	举世皆浊我独清. 众人皆醉我独醒.
++	Whole world deeply muddled I alone untainted. All people seriously drunk I alone sober.
+	是以见放! ]
++	Thus exiled!
+<^>	渔父曰: [
++	Fisher said:
+	圣人不凝滞于物, 而能与世推移.
++	Enlightened do not stagnate over the material, but (thus) able to readapt and last with the world.
+	世人皆浊, 何不淈其泥而扬其波?
++	Whole world deeply muddled, why not muddle whose mud and forward whose wash?
+	众人皆醉, 何不哺其糟而啜其醨?
++	All people seriously drunk, why not taste whose dregs and test whose murk?
+	何故深思高举, 自令放为? ]
++	Why thought profundity practiced high, self caused such exile?
+<^>	屈 原 曰: [
++	Qū Yuán (屈 原) said:
+	吾闻之: 新沐者必弹冠, 新浴者必振衣; 安能以身之察察, 受物之汶汶者乎?!
++	I heard that: newly hair-washed must shove the hat, newly body-bathed must shake the suit; how could with a body cleansed, bearing the items of indecency?!
+	宁赴 湘 流, 葬于江鱼之腹中: 安能以皓皓之白, 而蒙世俗之尘埃乎?! ]
++	Rather toward Xiāng's (湘) flow, befallen river fishes' gut: how could with the shinning white, bearing the dust of vanity?!
+<^>	渔父莞尔而笑, 鼓枻而去. 乃歌曰: [
++	Fisher lightly smiled, paddled oars leaving. And sang:
+	沧浪 之水清兮: 可以濯吾缨.
++	Water of Cāng-Láng (沧浪) clear: may wash clean my ribbon.
+	沧浪 之水浊兮: 可以濯吾足. ]
++	Water of Cāng-Láng (沧浪) murky: may wash clean my feet.
+<.>	遂去不复与言.
++	Thus left saying no more.
+]]
+
+
+
+
+== 3 ==
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>): #13 - #14, #23 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1180
+	子曰: [
+	能以礼让为国乎, 何有?
+	不能以礼让为国, 如礼何? ]
+
+	子曰: [
+	不患无位, 患所以立.
+	不患莫己知, 求为可知也. ]
+
+	子曰: "以约失之者, 鲜矣."
+
+	[
+	Master said: [
+	Possible to with courtesies to reign the State, any?
+	Not possible to with courtesies to reign the State, for the etiquette how? ]
+
+	Master said: [
+	Not concerning no post, concerning what based the post.
+	Not concerning nothing self known, strive practicing what already known. ]
+
+	Master said: "Those who fail it through well regulation, extraordinarily rare." ] ]
+
+----
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>): #13 - #14, #23 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1180
+	子曰: [
++	Master said:
+	能以礼让为国乎, 何有?
++	Possible to with courtesies to reign the State, any?
+	不能以礼让为国, 如礼何? ]
++	Not possible to with courtesies to reign the State, for the etiquette how?
+
+	子曰: [
++	Master said:
+	不患无位, 患所以立.
++	Not concerning no post, concerning what based the post.
+	不患莫己知, 求为可知也. ]
++	Not concerning nothing self known, strive practicing what already known.
+
+	子曰: "以约失之者, 鲜矣."
++	Master said: "Those who fail it through well regulation, extraordinarily rare." ]
+
+
+
+
+== 4 ==
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>), #11 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1178
+	子曰: [
+	君子怀德, 小人怀土.
+	君子怀刑, 小人怀惠. ]
+
+	[
+	Master said: [
+	Dignitaries face virtue, debased face mud.
+	Dignitaries face torment, debased face benefit. ] [1]
+[ [1]
+	Multi-meaning: [
+	Dignitaries of virtue, debased of mud.
+	Dignitaries concern rectitude, debased concern self-interests. ]
+<.>	(parsing "刑" as "型" variant) ] ]
+
+[ Comment:
+	One may as well be either Dignitary and debased: also neither Dignitary nor debased. ] ]
+
+----
+
+[ <The Theses> (<论语>): <Beneighbor Mercy> (<里仁>), #11 (~ BCE 400):
+https://ctext.org/analects/li-ren/ens#n1178
+	子曰: [
++	Master said:
+	君子怀德, 小人怀土.
++	Dignitaries face virtue, debased face mud.
+	君子怀刑, 小人怀惠. ] [1]
++	Dignitaries face torment, debased face benefit.
+[ [1]
+	Multi-meaning: [
+	Dignitaries of virtue, debased of mud.
+	Dignitaries concern rectitude, debased concern self-interests. ]
+<.>	(parsing "刑" as "型" variant) ]
+
+[ Comment:
+	One may as well be either Dignitary and debased: also neither Dignitary nor debased. ] ]
+
+
+
+
+== 5 ==
+
+[ 林 则徐 @ CE 1839-03-10:
+	海纳百川: 有容乃大.
+	壁立千仞: 无欲则刚.
+	[
+	Sea contains hundreds streams: Forbearing therefore achieve greatness.
+	Cliff upright thousands Rèn: Indifferent thus of strength. ] ]
+
+----
+
+[ 林 则徐 @ CE 1839-03-10:
+	海纳百川: 有容乃大.
++	Sea contains hundreds streams: Forbearing therefore achieve greatness.
+	壁立千仞: 无欲则刚.
++	Cliff upright thousands Rèn: Indifferent thus of strength. ]
+
+
+
+
+== 6 ==
+
+[ Though "薇" means "herb" in general, in the context it likely means "rose" ("蔷薇"). ]
+
+[ <The Poems> (<诗经>): <Faint Art> (<小雅>): <Rose Taking> (<采薇>), #6 (BCE 900 ~ BCE 800):
+https://ctext.org/book-of-poetry/cai-wei/ens#n15383
+	昔我往矣: 杨柳依依.
+	今我来思: 雨雪霏霏.
+	行道迟迟: 载渴载饥.
+	我心伤悲: 莫知我哀.
+	[
+	Once when I leave: willows given in reluctance.
+	Now I come recall: rain and snow endlessly.
+	Practice of lengthy delay: bearing thirst bearing hunger.
+	My heart's great sorrow: know not my mourn. ] ]
+
+----
+
+[ <The Poems> (<诗经>): <Faint Art> (<小雅>): <Rose Taking> (<采薇>), #6 (BCE 900 ~ BCE 800):
+https://ctext.org/book-of-poetry/cai-wei/ens#n15383
+	昔我往矣: 杨柳依依.
++	Once when I leave: willows given in reluctance.
+	今我来思: 雨雪霏霏.
++	Now I come recall: rain and snow endlessly.
+	行道迟迟: 载渴载饥.
++	Practice of lengthy delay: bearing thirst bearing hunger.
+	我心伤悲: 莫知我哀.
++	My heart's great sorrow: know not my mourn. ]
+
+
+
+
+== 7 ==
+
+[ <Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (CE 752) (by: 李 白):
+	君不见, 黄河之水天上来: 奔流到海不复回.
+	君不见, 高堂明镜悲白发: 朝如青丝暮成雪.
+	人生得意须尽欢: 莫使金樽空对月!
+	天生我材必有用: 千金散尽还复来!
+	.
+	烹羊宰牛且为乐: 会须一饮三百杯.
+	岑 夫子, 丹丘 生: 将进酒, 杯莫停!
+	与君歌一曲: 请君为我倾耳听!
+	.
+	钟鼓馔玉不足贵: 但愿长醉不复醒!
+	古来圣贤皆寂寞, 惟有饮者留其名.
+	陈 王 昔时宴 平乐: 斗酒十千恣欢谑.
+	主人何为言少钱? 径须沽取对君酌!
+	五花马, 千金裘: 呼儿将出换美酒!
+	与尔同销万古愁!
+
+	[
+	Your Excellencies don't see, Yellow River's water Celestial-Top comes: rushes into the ocean without ever return.
+	Your Excellencies don't see, High Hall clear mirror mourning white hairs: dawn as teal at dusk as snow.
+	Life at high should definitely enjoy: Let not Golden Cup empty toward Moon!
+	Born of my type must be of use: Thousands Gold lavishly expent may again regain!
+	.
+	Cooking lambs killing calves for sheer ecstasy: one moment straight drink 300 cups.
+	Master Cén (岑), Mr. Dān-Qiū (丹丘): boldly take wine, cup stop not!
+	A song for your Excellencies: please your Excellencies for me attentively hear!
+	.
+	Noble Chimes Jade Delicacies petty no worth: Wish only long drunk wake no more!
+	Old times Enlightened all've been lonely, only drinkers had their names once left.
+	Lord of Chén (陈) once held banquet at Píng-Lè (平乐): per Dǒu tens thousand Cr. wines recklessly enjoy.
+	Lord how should ever consider the expense? Ought to outright exchange some with your Excellencies drink!
+	5-Petal horses, thousands Gold capes: goofily wholesale exchanging delicious wines!
+	With you together resolve hundred centuries mourn! ] ]
+
+----
+
+[ <Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (CE 752) (by: 李 白):
+	君不见, 黄河之水天上来: 奔流到海不复回.
++	Your Excellencies don't see, Yellow River's water Celestial-Top comes: rushes into the ocean without ever return.
+	君不见, 高堂明镜悲白发: 朝如青丝暮成雪.
++	Your Excellencies don't see, High Hall clear mirror mourning white hairs: dawn as teal at dusk as snow.
+	人生得意须尽欢: 莫使金樽空对月!
++	Life at high should definitely enjoy: Let not Golden Cup empty toward Moon!
+	天生我材必有用: 千金散尽还复来!
++	Born of my type must be of use: Thousands Gold lavishly expent may again regain!
+	.
+	烹羊宰牛且为乐: 会须一饮三百杯.
++	Cooking lambs killing calves for sheer ecstasy: one moment straight drink 300 cups.
+	岑 夫子, 丹丘 生: 将进酒, 杯莫停!
++	Master Cén (岑), Mr. Dān-Qiū (丹丘): boldly take wine, cup stop not!
+	与君歌一曲: 请君为我倾耳听!
++	A song for your Excellencies: please your Excellencies for me attentively hear!
+	.
+	钟鼓馔玉不足贵: 但愿长醉不复醒!
++	Noble Chimes Jade Delicacies petty no worth: Wish only long drunk wake no more!
+	古来圣贤皆寂寞, 惟有饮者留其名.
++	Old times Enlightened all've been lonely, only drinkers had their names once left.
+	陈 王 昔时宴 平乐: 斗酒十千恣欢谑.
++	Lord of Chén (陈) once held banquet at Píng-Lè (平乐): per Dǒu tens thousand Cr. wines recklessly enjoy.
+	主人何为言少钱? 径须沽取对君酌!
++	Lord how should ever consider the expense? Ought to outright exchange some with your Excellencies drink!
+	五花马, 千金裘: 呼儿将出换美酒!
++	5-Petal horses, thousands Gold capes: goofily wholesale exchanging delicious wines!
+	与尔同销万古愁!
++	With you together resolve hundred centuries mourn! ]
