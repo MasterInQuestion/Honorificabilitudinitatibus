@@ -14,7 +14,7 @@
     [&lt;Ascending Stork Tower> (<登 鹳雀楼>) (~ CE 730) (by: (?| 王 之涣 | 朱 斌 ) )](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登鹳雀楼.txt)<br/>
     [&lt;Had Wine Asking Moon> (<把酒问月>) (~ CE 744) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/把酒问月.txt)<br/>
     [&lt;Lotus Taking Melody> (<采莲曲>) (CE 748) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/采莲曲.txt)<br/>
-    [&lt;Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (CE 752) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/将进酒.txt)<br/>
+    [&lt;Boldly Take Wine> (<将进酒>) (&lt;Pity Cup Empty> (<惜樽空>) ) (CE 752) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/将进酒.txt)<br/>
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>
     [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)
 
