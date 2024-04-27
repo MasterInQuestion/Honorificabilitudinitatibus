@@ -1,0 +1,16 @@
+= <Self Title> (<自题>) (CE 2024-04) (by: Master ?) =
+
+	默默且无闻: 喜者亦寥寥.
++	Silent and without much known: Liked by also few only.
+	隐隐金石韧: 终得赓上古.
++	Contained much Metal-Stone strength: Eventually had everlasting the ages.
+
+----
+
+	See also: <Metal-Stone China Heart> (<金石中国心>)
+	Refactored from lines:
+[[
+	也像这金石一样:
+	且看它默默无闻, 喜者寥寥.
+	偏偏它最为坚韧, 终究会赓续上古: 枝繁叶茂.
+]]
