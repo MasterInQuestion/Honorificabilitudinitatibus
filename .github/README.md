@@ -25,4 +25,5 @@
     [&lt;True View> (<大观>) (by: (~ CE 1790) 曹 雪芹; (CE 2024-03) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/大观.txt)<br/>
     [&lt;Frosty Moon> (<霜月>) (CE 2023-11) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/霜月.txt)<br/>
     [&lt;Accompanying Morning Court of Palace Great Brilliancy> (<和早朝 大明宫>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/和早朝%20大明宫.txt)<br/>
-    [&lt;Vain> (<罔>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/罔.txt)
+    [&lt;Vain> (<罔>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/罔.txt)<br/>
+    [&lt;Self Title> (<自题>) (CE 2024-04) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/自题.txt)
