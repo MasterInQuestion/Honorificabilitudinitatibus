@@ -29,4 +29,5 @@
     [&lt;Self Title> (<自题>) (CE 2024-04) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/自题.txt)
 
 [ "近词选"<br/>
+    [&lt;Coincidence> (<偶然>) (CE 1926-05) (by: 徐 志摩)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B192605%5D%20偶然%20-%20徐%20志摩.txt)<br/>
     [&lt;Forest-amid Moon Night> (<林中月夜>) (CE 1992-08) (by: 金 波)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B199208%5D%20林中月夜%20-%20金%20波.txt) ]
