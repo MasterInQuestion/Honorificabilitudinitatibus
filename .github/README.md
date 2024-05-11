@@ -10,6 +10,7 @@
     [&lt;Chǔ Words> (<楚辞>): &lt;Fisher> (<渔父>) (~ BCE 304) (by: 屈 原)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Chu%20Words/Fisher.txt)<br/>
     [&lt;Whirlwind Ballad> (<大风歌>) (BCE 196-11) (by: 刘 邦)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/大风歌.txt)
 
+    [&lt;Atop Yōu-Province Tower Song> (<登 幽州台 歌>) (CE 697) (by: 陈 子昂)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登幽州台歌.txt)<br/>
     [&lt;Crossing Jīng Gate Sent Farewell> (<渡 荆门 送别>) (by: (CE 725) 李 白; (CE 2023) 徐 乐同, 谢 琰, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/渡%20荆门%20送别.txt)<br/>
     [<静夜思> (by: (~ CE 727) 李 白; (CE 2023) 李 凯稠, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/静夜思.txt)<br/>
     [&lt;Ascending Stork Tower> (<登 鹳雀楼>) (~ CE 730) (by: (?| 王 之涣 | 朱 斌 ) )](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登鹳雀楼.txt)<br/>
