@@ -1,0 +1,46 @@
+= <Forest-amid Moon Night> (<林中月夜>) (CE 1992-08) (by: 金 波) =
+
+	溶溶的月光, 像银亮的春水: 洒在每一片绿叶上.
++	Molten moonlight, like silver-bright Spring water: Sprinkled upon each piece green leaf.
+	闪着耀眼的光辉.
++	Glimmering dazzling glowing.
+
+	叶子一动不动: 做着恬静的梦.
++	Leaves unmove: making the tranquil dream.
+	梦见月光化作露珠: 一样的晶莹, 一样的玲珑:
++	Dreamt moonlight transformed into dews: same lucid, same translucent:
+	.
+	在晨风里摇落:
++	In the dawn breeze shake-off:
+	一滴滴: 叮咚, 叮, 咚.
++	Drop by drop: tington, ting, ton.
+
+----
+
+	Modern form...
+	Strangely more native in English.
+
+	For which is actually cludged backport from Western languages.
+	(probably also double-rent from Japanese...)
+
+
+	Pre-formatted:
+[[
+	溶溶的月光,
+	像银亮的春水,
+	洒在每一片绿叶上,
+	闪着耀眼的光辉.
+
+	叶子一动不动,
+	做着恬静的梦,
+	梦见月光化作露珠,
+	一样的晶莹,
+	一样的玲珑,
+	在晨风里摇落,
+	.
+	一滴滴,
+	叮咚,
+	叮,
+	咚.
+]]
+[ Comma-Splice Demo ]
