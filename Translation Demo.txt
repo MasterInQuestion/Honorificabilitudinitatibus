@@ -390,7 +390,7 @@ https://ctext.org/book-of-poetry/cai-wei/ens#n15383
 
 == 7 ==
 
-[ <Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (CE 752) (by: 李 白):
+[ <Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (~ CE 736) (by: 李 白):
 	君不见, 黄河之水天上来: 奔流到海不复回.
 	君不见, 高堂明镜悲白发: 朝如青丝暮成雪.
 	人生得意须尽欢: 莫使金樽空对月!
@@ -426,7 +426,7 @@ https://ctext.org/book-of-poetry/cai-wei/ens#n15383
 
 ----
 
-[ <Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (CE 752) (by: 李 白):
+[ <Boldly Take Wine> (<将进酒>) (<Pity Cup Empty> (<惜樽空>) ) (~ CE 736) (by: 李 白):
 	君不见, 黄河之水天上来: 奔流到海不复回.
 +	Your Excellencies don't see, Yellow River's water Celestial-Top comes: rushes into the ocean without ever return.
 	君不见, 高堂明镜悲白发: 朝如青丝暮成雪.
