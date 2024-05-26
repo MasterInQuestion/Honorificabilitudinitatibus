@@ -20,6 +20,7 @@
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>
     [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)
 
+    [&lt;Beauty Sorrowful> (<虞美人>) (CE 978-08-18) (by: 李 煜)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/虞美人%20(李%20煜).txt)<br/>
     [<祝东风> (by: (CE 1032) 欧阳 修; (CE 2023) 辛 晓娟, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/祝东风.txt)<br/>
     [&lt;Water Tone Head> (<水调歌头>) (CE 1076-09-21) (by: 苏 轼)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/水调歌头.txt)<br/>
     [&lt;Estimator: On Plum Blossom> (<卜算子: 咏梅>) (CE 1208) (by: 陆 游)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/卜算子%20-%20咏梅.txt)
