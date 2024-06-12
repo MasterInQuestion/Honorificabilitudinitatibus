@@ -18,7 +18,8 @@
     [&lt;Had Wine Asking Moon> (<把酒问月>) (~ CE 744) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/把酒问月.txt)<br/>
     [&lt;Lotus Taking Melody> (<采莲曲>) (CE 748) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/采莲曲.txt)<br/>
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>
-    [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)
+    [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)<br/>
+    [&lt;Night Rain Sending North> (<夜雨寄北>) (CE 853) (by: 李 商隐)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/夜雨寄北.txt)
 
     [&lt;Beauty Sorrowful> (<虞美人>) (CE 978-08-18) (by: 李 煜)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/虞美人%20(李%20煜).txt)<br/>
     [<祝东风> (by: (CE 1032) 欧阳 修; (CE 2023) 辛 晓娟, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/祝东风.txt)<br/>
