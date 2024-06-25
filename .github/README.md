@@ -21,6 +21,7 @@
     [&lt;Wine Today> (<今朝酒>) (by: (CE 744 ~ CE 875) 李 白, 罗 隐; (CE 2024) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/今朝酒.txt)<br/>
     [&lt;Gifting Lǐ Bái> (<赠{李 白}>) (CE 745) (by: 杜 甫)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/赠李白.txt)<br/>
     [&lt;Lotus Taking Melody> (<采莲曲>) (CE 748) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/采莲曲.txt)<br/>
+    [&lt;Those abandoned me left> (<弃我去者>) (<宣州 谢朓楼 饯别 校书 叔 {云}> (&lt;Xuān-Province Xiè Tiǎo's Tower Banquet Farewelling Book Editor Uncle Yún>) ) (CE 753) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/弃我去者.txt)<br/>
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>
     [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)<br/>
     [&lt;Night Rain Sending North> (<夜雨寄北>) (CE 853) (by: 李 商隐)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/夜雨寄北.txt)
