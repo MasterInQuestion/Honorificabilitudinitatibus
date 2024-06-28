@@ -57,6 +57,7 @@ Note:<br/>
     [<祝东风> (by: (CE 1032) 欧阳 修; (CE 2023) 辛 晓娟, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/祝东风.txt)<br/>
     [&lt;Water Tone Head> (<水调歌头>) (CE 1076-09-21) (by: 苏 轼)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/水调歌头.txt)<br/>
     [&lt;Prime Harvest 5th Nightly Tour> (<元丰五年夜游>) (CE 1082-08-20) (by: 苏 轼)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/元丰五年夜游.txt)<br/>
+    [&lt;Riverside Godly: Night Return Marshland> (<临江仙: 夜归 临皋>) (CE 1082-10) (by: 苏 轼)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/临江仙%20-%20夜归临皋.txt)<br/>
     [&lt;Estimator: On Plum Blossom> (<卜算子: 咏梅>) (CE 1208) (by: 陆 游)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/卜算子%20-%20咏梅.txt)
 
     [&lt;True View> (<大观>) (by: (~ CE 1790) 曹 雪芹; (CE 2024-03) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/大观.txt)<br/>
