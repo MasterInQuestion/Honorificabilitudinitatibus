@@ -61,6 +61,7 @@ Note:<br/>
     [&lt;Estimator: On Plum Blossom> (<卜算子: 咏梅>) (CE 1208) (by: 陆 游)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/卜算子%20-%20咏梅.txt)
 
     [&lt;True View> (<大观>) (by: (~ CE 1790) 曹 雪芹; (CE 2024-03) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/大观.txt)<br/>
+    [&lt;Riverside Godly: Peach Blossom Fish> (<临江仙: 桃花鱼>) (CE 1943) (by: 张 充和; (CE 1998) Hans Hermann Fränkel)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/临江仙%20-%20桃花鱼.txt)<br/>
     [&lt;Frosty Moon> (<霜月>) (CE 2023-11) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/霜月.txt)<br/>
     [&lt;Accompanying Morning Court of Palace Great Brilliancy> (<和早朝 大明宫>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/和早朝%20大明宫.txt)<br/>
     [&lt;Vain> (<罔>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/罔.txt)<br/>
