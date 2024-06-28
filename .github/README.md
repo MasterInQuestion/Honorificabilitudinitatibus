@@ -32,7 +32,8 @@ Note:<br/>
 +    Prosperity goes woe comes piece time affairs: People's life swinging swindling one dream between.<br/>
     何必纷纷固权位?<br/>
 +    Why to massively follow solidating post and power?<br/>
-    [&lt;Ultra White> (<太白>) (CE 2024-06) (by: Master ? ; (CE 746 ~ CE 874) 李 白, 杜 甫, 薛 逢)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/太白.txt)
+    [&lt;Ultra White> (<太白>) (CE 2024-06) (by: Master ? ; (CE 746 ~ CE 874) 李 白, 杜 甫, 薛 逢)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/太白.txt)<br/>
+    [&lt;World How Different> (<世殊异>) (CE 2024-06) (by: Master ? ; (CE 839-02) 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/世殊异.txt)
 
     [&lt;Heroic Tour> (<侠客行>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/侠客行.txt)<br/>
     [&lt;Tour of Difficulty> (<行路难>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/行路难.txt)<br/>
