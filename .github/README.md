@@ -54,6 +54,7 @@ Note:<br/>
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>
     [&lt;River Snow> (<江雪>) (CE 814) (by: 柳 宗元)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/江雪.txt)<br/>
     [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)<br/>
+    [&lt;Recall River South> (<忆江南>) (~ CE 837) (by: 白 居易)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/忆江南.txt)<br/>
     [&lt;Night Rain Sending North> (<夜雨寄北>) (CE 853) (by: 李 商隐)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/夜雨寄北.txt)
 
 &#x2D;---

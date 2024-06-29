@@ -1,0 +1,26 @@
+= <Recall River South> (<忆江南>) (~ CE 837) (by: 白 居易) =
+
+	https://cnkgraph.com/Writing/Search?Key=忆江南&ClauseIndex=title&Dynasty=唐朝&Author=白居易#poem_15280
+
+----
+
+	江南好, 风景旧曾谙:
++	River South fair, sceneries so well acquainted:
+	日出江花红胜火. 春来江水绿如蓝.
++	Sun arose river flowers redder than fire. Spring arisen river water green as blue.
+	能不忆江南?
++	How could not recall River South?
+
+	江南忆, 最忆是 杭州:
++	River South recall, most reminiscent Háng-Province (杭州):
+	山寺月中寻桂子. 郡亭枕上看潮头.
++	Mountain temple moon among seeking osmanthuses. County Pavilion pillow top viewing the surge.
+	何日更重游?
++	When would tour again?
+
+	江南忆, 其次忆 吴宫:
++	River South recall, next recalling Wú (吴) Palace:
+	吴酒一杯春竹叶. 吴娃双舞醉芙蓉.
++	Wú (吴) wine one cup Spring Bamboo Leaves. Wú (吴) maiden twin dance drunken hibiscuses.
+	早晚复相逢?
++	Sooner later shall reunion?
