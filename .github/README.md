@@ -35,6 +35,7 @@ Note:<br/>
     [&lt;Ultra White> (<太白>) (CE 2024-06) (by: Master ? ; (CE 746 ~ CE 874) 李 白, 杜 甫, 薛 逢)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/太白.txt)<br/>
     [&lt;World How Different> (<世殊异>) (CE 2024-06) (by: Master ? ; (CE 839-02) 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/世殊异.txt)
 
+    [&lt;Serene Night Thoughts> (<静夜思>) (by: (CE 727) 李 白; (CE 2023) 李 凯稠, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/静夜思.txt)<br/>
     [&lt;Heroic Tour> (<侠客行>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/侠客行.txt)<br/>
     [&lt;Tour of Difficulty> (<行路难>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/行路难.txt)<br/>
     [&lt;Boldly Take Wine> (<将进酒>) (&lt;Pity Cup Empty> (<惜樽空>) ) (~ CE 736) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/将进酒.txt)<br/>
@@ -47,7 +48,6 @@ Note:<br/>
 
     [&lt;Atop Yōu-Province Tower Song> (<登 幽州台 歌>) (CE 697) (by: 陈 子昂)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登幽州台歌.txt)<br/>
     [&lt;Crossing Jīng Gate Sent Farewell> (<渡 荆门 送别>) (by: (CE 725) 李 白; (CE 2023) 徐 乐同, 谢 琰, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/渡%20荆门%20送别.txt)<br/>
-    [<静夜思> (by: (~ CE 727) 李 白; (CE 2023) 李 凯稠, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/静夜思.txt)<br/>
     [&lt;Ascending Stork Tower> (<登 鹳雀楼>) (~ CE 730) (by: (?| 王 之涣 | 朱 斌 ) )](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登鹳雀楼.txt)<br/>
     [&lt;Lotus Taking Melody> (<采莲曲>) (CE 748) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/采莲曲.txt)<br/>
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>

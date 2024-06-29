@@ -1,0 +1,47 @@
+= <Serene Night Thoughts> (<静夜思>) (by: (CE 727) 李 白; (CE 2023) 李 凯稠, Master ?) =
+
+	床前明月光: 疑是地上霜.
++	Bed before bright moonlight: As if frost on ground.
+	举头望明月: 低头思故乡.
++	Rise head looking bright moon: Bowed head missing hometown.
+	明月高高挂: 相思心头 ( 望 | 漾 ).
++	Bright moon high-up hanging: Missing in heart ( wishing | waving ).
+	( [
+	悠悠静夜思: 千年何相似? ]
++	Lengthy Serene Night Thoughts: Thousands years how much similar?
+	| [
+	千载静夜思: 千载咏流传. ] )
++	Thousands years Serene Night Thoughts: Thousands years forever everlasting.
+
+	床前看月光:
++	Bed before viewing moonlight:
+	疑是地上霜.
++	As if frost on ground.
+	举头望山月:
++	Rise head looking mountain moon:
+	低头思故乡.
++	Bowed head missing hometown.
+
+----
+
+https://github.com/MasterInQuestion/attach/raw/main/MasterInQuestion/Honorificabilitudinitatibus/静夜思.webp
+[[
+	床前明月光: 疑是地上霜.
+	举头望明月: 低头思故乡.
+-	月儿高高挂: 思念心头漾.
++	明月高高挂: 相思心头 ( 望 | 漾 ).
+-	一首 <静夜思>: ( 千百年传唱 | 陪我赏月亮 | 伴我入梦乡 ).
++	( [
++	悠悠静夜思: 千年何相似? ]
++	| [
++	千载静夜思: 千载咏流传. ] )
+]]
+
+[[
+-	床前明月光:
++	床前看月光:
+	疑是地上霜.
+-	举头望明月:
++	举头望山月:
+	低头思故乡.
+]]
