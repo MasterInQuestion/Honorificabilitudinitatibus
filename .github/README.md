@@ -42,6 +42,7 @@ Note:<br/>
     [&lt;Boldly Take Wine> (<将进酒>) (&lt;Pity Cup Empty> (<惜樽空>) ) (~ CE 736) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/将进酒.txt)<br/>
     [&lt;Had Wine Asking Moon> (<把酒问月>) (~ CE 744) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/把酒问月.txt)<br/>
     [&lt;Wine Today> (<今朝酒>) (by: (CE 744 ~ CE 875) 李 白, 罗 隐; (CE 2024) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/今朝酒.txt)<br/>
+    [&lt;Moon Below Alone Drinking> (<月下独酌>) (~ CE 744-04) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/月下独酌.txt)<br/>
     [&lt;Gifting Lǐ Bái> (<赠{李 白}>) (CE 745) (by: 杜 甫)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/赠李白.txt)<br/>
     [&lt;Old Bright Moon Tour> (<古朗月行>) (CE 753) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/古朗月行.txt)<br/>
     [&lt;Those abandoned me left> (<弃我去者>) (<宣州 谢朓楼 饯别 校书 叔 {云}> (&lt;Xuān-Province Xiè Tiǎo's Tower Banquet Farewelling Book Editor Uncle Yún>) ) (CE 753) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/弃我去者.txt) ]
