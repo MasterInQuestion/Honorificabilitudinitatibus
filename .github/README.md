@@ -70,6 +70,7 @@ Note:<br/>
     [&lt;Waves Settled: South Sea Returned Gifting Wáng Dìng-Guó's Attendant Ms. Yù> (<定风波: 南海 归赠 王 定国 侍人 寓娘>) (CE 1086-01) (by: 苏 轼, 宇文 柔)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/定风波%20(柔奴).txt)<br/>
     [&lt;West River Moon> (<西江月>) (CE 1126) (by: 蔡 京)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/西江月%20(蔡%20京).txt)<br/>
     [&lt;Detrapper: For Chén Tóng-Fǔ composing courageous words to send which> (<破阵子: 为 陈 同甫 赋壮词以寄之>) (CE 1189) (by: 辛 弃疾)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/破阵子%20-%20陈%20同甫.txt)<br/>
+    [&lt;Southlander: Atop Capital Pass North-Settling Pavilion Having Thoughts> (<南乡子: 登 京口北固亭 有怀>) (CE 1204) (by: 辛 弃疾)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/南乡子%20-%20北固亭.txt)<br/>
     [&lt;Estimator: On Plum Blossom> (<卜算子: 咏梅>) (CE 1208) (by: 陆 游)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/卜算子%20-%20咏梅.txt)
 
 &#x2D;---
