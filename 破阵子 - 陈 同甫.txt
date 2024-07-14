@@ -1,0 +1,25 @@
+= <Detrapper: For Chén Tóng-Fǔ composing courageous words to send which> (<破阵子: 为 陈 同甫 赋壮词以寄之>) (CE 1189) (by: 辛 弃疾) =
+
+	https://cnkgraph.com/Writing/Search?Key=破阵子&ClauseIndex=title&Dynasty=宋朝&Author=辛弃疾#poem_140436
+
+----
+
+	醉里挑灯看剑: 梦回吹角连营.
++	Drunken picking lantern see Blade: Dream back horn sounding war camps.
+	八百里分麾下炙: 五十弦翻塞外声. [1]
++	800 Lǐ sharing undercommand roasted: 50 Strings over the border sounds.
+	沙场秋点兵.
++	Desert field Autumn checking army.
+
+	马作的卢飞快: 弓如霹雳弦惊.
++	Horses as Dì-Lú (的卢) rapid: Bows as thunderbolt lightning.
+	了却君王天下事: 赢得生前身后名:
++	Settling the Sovereign's Estate affairs: Earned before life after life fame:
+	可怜白发生!
++	Pity white hairs grow!
+
+[ [1]
+	"八百里" literally means: 800 Lǐ (里, length unit).
+	While it's also reportedly to be the name of certain kind of cattle.
+
+	50 Strings (五十弦) is an allusion to Sè (瑟, a type of bridge zither of 50 strings). ]
