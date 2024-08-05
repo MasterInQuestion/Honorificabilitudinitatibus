@@ -47,7 +47,8 @@ Note:<br/>
     [&lt;Old Bright Moon Tour> (<古朗月行>) (CE 753) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/古朗月行.txt)<br/>
     [&lt;Those abandoned me left> (<弃我去者>) (<宣州 谢朓楼 饯别 校书 叔 {云}> (&lt;Xuān-Province Xiè Tiǎo's Tower Banquet Farewelling Book Editor Uncle Yún>) ) (CE 753) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/弃我去者.txt)<br/>
     [&lt;Playful Gifting Dù Fǔ> (<戏赠 杜 甫>) (CE 753) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/戏赠杜甫.txt)<br/>
-    [&lt;Gifting Friend> (<赠友人>) (~ CE 756-06) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/赠友人.txt) ]
+    [&lt;Gifting Friend> (<赠友人>) (~ CE 756-06) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/赠友人.txt)<br/>
+    [&lt;The Farewell Song> (<临终歌>) (CE 762-12) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/临终歌.txt) ]
 
 &#x2D;---
 
