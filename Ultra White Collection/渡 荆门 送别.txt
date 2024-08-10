@@ -1,9 +1,13 @@
 = <Crossing Jīng Gate Sent Farewell> (<渡 荆门 送别>) (by: (CE 725) 李 白; (CE 2023) 徐 乐同, 谢 琰, Master ?) =
 
 	千山隐隐孤帆现: 独伴日月眠.
++	Thousands mountains in silhouette lonely sail appears: alone accompanying sun and moon sleep.
 	别乡远游无悲切: 孤心待梦圆.
++	Out land far tour no sorrow mourn: lonely heart await dream fulfills.
 	大江远, 远山辽; 辽空阔, 阔地广:
++	Big river far, far mountains broad; broad sky blank, blank ground afar:
 	苍苍浩浩, 渺渺茫茫: 万类霜空竞自由.
++	Grandiose hefty, illusory inphysical: Myriads kinds frosty sky competing freedom.
 
 	渡远 荆门 外: 来从 楚国 游.
 +	Treading far Jīng Gate (荆门) outer: Come from Chǔ (楚) State touring.
