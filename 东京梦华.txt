@@ -1,0 +1,22 @@
+= <East Capital Dreamy Stories> (<东京梦华>) (CE 2023-09-20 15:02:52 UTC) (by: Master ? ; (CE 1147) 孟 元老) =
+
+	夜市直至三更尽:
++	Night fair straight toward 3rd watch ends:
+	五更又复重开张.
++	5th watch again also businesses reopened.
+	耍闹喧嚣夜不绝:
++	Playful noises aloud night without ending:
+	通宵达旦复通宵.
++	Overnight toward dawn again overnight.
+
+[[
+	夜市直至三更尽:
+-	才五更又复开张.
++	五更又复重开张.
+-	耍闹去处: 通宵不绝.
++	耍闹喧嚣夜不绝:
++	通宵达旦复通宵.
+]]
+- <East Capital Dreamy Stories> (<东京梦华录>), Vol. 3: <Horse-Line Street Groceries> (<马行街 铺席>)
+	https://ctext.org/wiki.pl?if=en&remap=gb&res=712358&searchu=夜市直至三更尽
+	https://cnkgraph.com/Book/KR2k0111_003#page_3-6a
