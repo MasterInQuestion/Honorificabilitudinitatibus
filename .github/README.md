@@ -92,6 +92,7 @@ Note:<br/>
 
 [ "近词选"<br/>
     [&lt;The Shout> (<呐喊>) (by: (CE 1922-12-03) 鲁迅; (CE 1929-07-30) 徐 志摩)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B1922~1929%5D%20呐喊%20-%20鲁迅,%20徐%20志摩.txt)<br/>
+    [&lt;The Grayish Life> (<灰色的人生>) (~ CE 1926) (by: 徐 志摩)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B1926%5D%20灰色的人生%20-%20徐%20志摩.txt)<br/>
     [&lt;Coincidence> (<偶然>) (CE 1926-05) (by: 徐 志摩)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B192605%5D%20偶然%20-%20徐%20志摩.txt)<br/>
     [&lt;Forest-amid Moon Night> (<林中月夜>) (CE 1992-08) (by: 金 波)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B199208%5D%20林中月夜%20-%20金%20波.txt)<br/>
     [<情之一字> (CE 2024-06) (by: 元和令, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/近词选/%5B202406%5D%20情之一字%20-%20元和令.txt) ]
