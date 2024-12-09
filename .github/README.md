@@ -33,7 +33,7 @@ Note:<br/>
     何必纷纷固权位?<br/>
 +    Why to massively follow solidating post and power?<br/>
     [&lt;Ultra White> (<太白>) (CE 2024-06) (by: Master ? ; (CE 746 ~ CE 874) 李 白, 杜 甫, 薛 逢)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/太白.txt)<br/>
-    [&lt;World How Different> (<世殊异>) (CE 2024-06) (by: Master ? ; (CE 839-02) 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/世殊异.txt)
+    [&lt;World How Different> (<世殊异>) (CE 2024-06 ~ CE 2024-12) (by: Master ? ; (CE 839-02) 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/世殊异.txt)
 
     [&lt;Crossing Jīng Gate Sent Farewell> (<渡 荆门 送别>) (by: (CE 725) 李 白; (CE 2023) 徐 乐同, 谢 琰, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/渡%20荆门%20送别.txt)<br/>
     [&lt;Serene Night Thoughts> (<静夜思>) (by: (CE 727) 李 白; (CE 2023) 李 凯稠, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/静夜思.txt)<br/>
