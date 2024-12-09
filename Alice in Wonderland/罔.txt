@@ -9,3 +9,5 @@
 +	Old place seemingly remains still: Old people already seen not.
 	不见旧时人: 但见往来客.
 +	See not people of the old time: See only come and go passengers.
++	See not old times people: See only come-by passengers.
+^ Debug alternative
