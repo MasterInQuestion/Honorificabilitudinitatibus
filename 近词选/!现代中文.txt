@@ -36,3 +36,22 @@
 
 	俱美, 何不可两袒: 美美与共?
 +	Both beauty, why may not both inclined: Beauty-beauty there together?
+
+----
+
+[ Quote <孔 乙己> (CE 1919-03) (by: 鲁迅):
+https://zh.wikisource.org/zh-hans/孔乙己
+-	孔 乙己 是这样的使人快活. 可是没有他, 别人也便这么过.
++	乙己 甚使人快活. 然无他, 人亦如是. ]
+
+	Verbosity in so called "Plain Wording" (白话).
+	In certain cases it may become annoyingly verbose.
+
+	However another problem with the language, is that perfectly understandable in written form may become hardly recognizable when spoken:
+	Appears to be an intrinsic problem of the language itself. (mono-syllable caused excessive homophone)
+	.
+	Exemplar:
+	https://github.com/MasterInQuestion/Markup/blob/main/Verbose--.htm
+	("宏", "虹", "红", "弘": Hóng)
+
+	See also: https://github.com/MasterInQuestion/talk/discussions/42
