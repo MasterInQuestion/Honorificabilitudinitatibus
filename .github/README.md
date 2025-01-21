@@ -98,7 +98,8 @@ Note:<br/>
     [&lt;Master of Demon Valley> (<鬼谷子>) (CE 2024-08) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/鬼谷子.txt)<br/>
     [&lt;Final Detached> (<终隐>) (CE 2024-08) (by: Master ? ; (CE 820 ~ CE 841) 白 居易; (CE 1550-10-20) 王 邦瑞)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/终隐.txt)<br/>
     [&lt;Martiality Accomplishment> (<武功>) (CE 2024-10) (by: Master ? ; (~ CE 1270) 关 汉卿; (CE 766) 杜 甫; (CE 216) 曹 植)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/武功.txt)<br/>
-    [&lt;Minor Snow> (<小雪>) (CE 2024-11-22) (by: Master ? ; (~ CE 2024) Unknown)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/小雪.txt) ]<br/>
+    [&lt;Minor Snow> (<小雪>) (CE 2024-11-22) (by: Master ? ; (~ CE 2024) Unknown)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/小雪.txt)<br/>
+    [&lt;Bright Moon Heart> (<明月心>) (CE 2024-11-22) (by: Master ? ; (CE 716 ~ CE 816) 王 维, 李 白, 王 昌龄, 白 居易; (~ CE 935) 孙 光宪)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/明月心.txt) ]<br/>
 \
 [ "近词选"<br/>
 (Recent Words Selection)<br/>
