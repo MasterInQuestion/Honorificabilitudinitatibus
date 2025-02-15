@@ -39,6 +39,7 @@ Note:<br/>
     [&lt;Serene Night Thoughts> (<静夜思>) (by: (CE 727) 李 白; (CE 2023) 李 凯稠, Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/静夜思.txt)<br/>
     [&lt;Night Lodged Mountain Temple> (<夜宿山寺>) (by: (~ CE 730) 李 白; (~ CE 982) 杨 亿)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/夜宿山寺.txt)<br/>
     [&lt;Heroic Tour> (<侠客行>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/侠客行.txt)<br/>
+    [&lt;Juniors Tour> (<少年行>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/少年行.txt)<br/>
     [&lt;Tour of Difficulty> (<行路难>) (CE 731) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/行路难.txt)<br/>
     [&lt;Boldly Take Wine> (<将进酒>) (&lt;Pity Cup Empty> (<惜樽空>) ) (~ CE 736) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/将进酒.txt)<br/>
     [&lt;Had Wine Asking Moon> (<把酒问月>) (~ CE 744) (by: 李 白)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Ultra%20White%20Collection/把酒问月.txt)<br/>
