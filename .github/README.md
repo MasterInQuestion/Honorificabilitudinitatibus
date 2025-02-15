@@ -54,6 +54,7 @@ Note:<br/>
 
 &#x2D;---
 
+    [&lt;In Mountain> (<山中>) (CE 671) (by: 王 勃)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/山中.txt)<br/>
     [&lt;Atop Yōu-Province Tower Song> (<登 幽州台 歌>) (CE 697) (by: 陈 子昂)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登幽州台歌.txt)<br/>
     [&lt;With Army Tour> (<从军行>) (CE 725) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/从军行.txt)<br/>
     [&lt;Ascending Stork Tower> (<登 鹳雀楼>) (~ CE 730) (by: (?| 王 之涣 | 朱 斌 ) )](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登鹳雀楼.txt)<br/>
