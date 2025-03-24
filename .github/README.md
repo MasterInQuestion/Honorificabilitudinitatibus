@@ -93,6 +93,7 @@ Note:<br/>
 [ "Alice in Wonderland"<br/>
     Catalog mostly of my original.
 
+    [&lt;The Proud General Words> (<骄傲将军词>) (CE 2023-08) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/骄傲将军词.txt)<br/>
     [&lt;East Capital Dreamy Stories> (<东京梦华>) (CE 2023-09-20 15:02:52 UTC) (by: Master ? ; (CE 1147) 孟 元老)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/东京梦华.txt)<br/>
     [&lt;Frosty Moon> (<霜月>) (CE 2023-11) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/霜月.txt)<br/>
     [&lt;Accompanying Morning Court of Palace Great Brilliancy> (<和早朝 大明宫>) (CE 2024-01) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/和早朝%20大明宫.txt)<br/>
