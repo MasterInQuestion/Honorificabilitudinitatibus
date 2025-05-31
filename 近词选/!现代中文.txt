@@ -53,5 +53,11 @@ https://zh.wikisource.org/zh-hans/孔乙己
 	Exemplar:
 	https://github.com/MasterInQuestion/Markup/blob/main/Verbose--.htm
 	("宏", "虹", "红", "弘": Hóng)
+[ ^
+	Bù Shí Shí Wù:
+	不识 ( 时务 | 实务 | /[时实]物/ | ...?? )
+
+	Bān Mén Nòng Fǔ:
+	/[搬扳班]门弄斧/ ]
 
 	See also: https://github.com/MasterInQuestion/talk/discussions/42
