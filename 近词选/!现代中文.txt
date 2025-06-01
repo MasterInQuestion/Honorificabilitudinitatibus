@@ -58,6 +58,8 @@ https://zh.wikisource.org/zh-hans/孔乙己
 	不识 ( 时务 | 实务 | /[时实]物/ | ...?? )
 
 	Bān Mén Nòng Fǔ:
-	/[搬扳班]门弄斧/ ]
+	/[搬扳班]门弄斧/
+
+	https://github.com/MasterInQuestion/Honorificabilitudinitatibus/commit/8c87e3bd5b9bbcee5dd442b385e461b9d105d3c5 ]
 
 	See also: https://github.com/MasterInQuestion/talk/discussions/42
