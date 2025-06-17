@@ -59,6 +59,7 @@ Note:<br/>
     [&lt;Atop Yōu-Province Tower Song> (<登 幽州台 歌>) (CE 697) (by: 陈 子昂)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登幽州台歌.txt)<br/>
     [&lt;With Army Tour> (<从军行>) (CE 725) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/从军行.txt)<br/>
     [&lt;Ascending Stork Tower> (<登 鹳雀楼>) (~ CE 730) (by: (?| 王 之涣 | 朱 斌 ) )](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/登鹳雀楼.txt)<br/>
+    [&lt;Spring Dawn> (<春晓>) (~ CE 730) (by: 孟 浩然; (CE 2025-03) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/春晓.txt)<br/>
     [&lt;Hibiscus House Sending Xīn Jiàn> (<芙蓉楼 送{辛 渐}>) (CE 746) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/芙蓉楼送辛渐.txt)<br/>
     [&lt;Lotus Taking Melody> (<采莲曲>) (CE 748) (by: 王 昌龄)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/采莲曲.txt)<br/>
     [&lt;Sending Left Assembly Reminder Dù> (<寄 左省 杜 拾遗>) (CE 757) (by: 岑 参)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/寄%20左省%20杜%20拾遗.txt)<br/>
