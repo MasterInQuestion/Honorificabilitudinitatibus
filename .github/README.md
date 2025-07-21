@@ -69,7 +69,8 @@ Note:<br/>
     [&lt;Bamboo Twig Words> (<竹枝词>) (CE 822-01-31 ~ CE 824-08-31) (by: 刘 禹锡)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/竹枝词.txt)<br/>
     [&lt;The Building Ornatory> (<阿房宫赋>) (CE 825) (by: 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/阿房宫赋.txt)<br/>
     [&lt;Recall River South> (<忆江南>) (~ CE 837) (by: 白 居易)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/忆江南.txt)<br/>
-    [&lt;Night Rain Sending North> (<夜雨寄北>) (CE 853) (by: 李 商隐)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/夜雨寄北.txt)
+    [&lt;Night Rain Sending North> (<夜雨寄北>) (CE 853) (by: 李 商隐)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/夜雨寄北.txt)<br/>
+    [&lt;Of Chrysanthemum> (<赋菊>) (~ CE 875) (by: 黄 巢)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/赋菊.txt)
 
 &#x2D;---
 
