@@ -82,6 +82,7 @@ Note:<br/>
     [&lt;Waves Settled: South Sea Returned Gifting Wáng Dìng-Guó's Attendant Ms. Yù> (<定风波: 南海 归赠 王 定国 侍人 寓娘>) (CE 1086-01) (by: 苏 轼, 宇文 柔)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/定风波%20(柔奴).txt)<br/>
     [&lt;Fisher's Pride> (<渔家傲>) (CE 1100 ~ CE 1130) (by: 李 清照)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/渔家傲%20(李%20清照).txt)<br/>
     [&lt;Listening Instrument Painting> (<听琴图>) (CE 1117) (by: 蔡 京)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/听琴图.txt)<br/>
+    [&lt;Rain Past Sky Azure Clouds Scattered Place> (<雨过天青云破处>) (~ CE 1120) (by: 赵 佶?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/雨过天青云破处.txt)<br/>
     [&lt;West River Moon> (<西江月>) (CE 1126) (by: 蔡 京)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/西江月%20(蔡%20京).txt)<br/>
     [&lt;Mid-Autumn Moon> (<中秋月>) (~ CE 1130) (by: 周 紫芝; (CE 2024-09-15) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/中秋月%20(周%20紫芝).txt)<br/>
     [&lt;Detrapper: For Chén Tóng-Fǔ composing courageous words to send which> (<破阵子: 为 陈 同甫 赋壮词以寄之>) (CE 1189) (by: 辛 弃疾)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/破阵子%20-%20陈%20同甫.txt)<br/>
