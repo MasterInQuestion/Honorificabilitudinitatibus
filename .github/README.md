@@ -86,6 +86,7 @@ Note:<br/>
     [&lt;Listening Instrument Painting> (<听琴图>) (CE 1117) (by: 蔡 京)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/听琴图.txt)<br/>
     [&lt;Rain Past Sky Azure Clouds Scattered Place> (<雨过天青云破处>) (~ CE 1120) (by: 赵 佶?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/雨过天青云破处.txt)<br/>
     [&lt;West River Moon> (<西江月>) (CE 1126) (by: 蔡 京)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/西江月%20(蔡%20京).txt)<br/>
+    [&lt;Banquet Mountain Pavilion: North Tour Met Apricot> (<宴山亭: 北行见杏>) (~ CE 1128) (by: 赵 佶)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/宴山亭%20-%20北行见杏.txt)<br/>
     [&lt;Mid-Autumn Moon> (<中秋月>) (~ CE 1130) (by: 周 紫芝; (CE 2024-09-15) Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/中秋月%20(周%20紫芝).txt)<br/>
     [&lt;Detrapper: For Chén Tóng-Fǔ composing courageous words to send which> (<破阵子: 为 陈 同甫 赋壮词以寄之>) (CE 1189) (by: 辛 弃疾)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/破阵子%20-%20陈%20同甫.txt)<br/>
     [&lt;Southlander: Atop Capital Pass North-Settling Pavilion Having Thoughts> (<南乡子: 登 京口北固亭 有怀>) (CE 1204) (by: 辛 弃疾)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/南乡子%20-%20北固亭.txt)<br/>
