@@ -116,7 +116,8 @@ Note:<br/>
     [&lt;Titleless> (<无题>) (CE 2025-03) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/无题.txt)<br/>
     [&lt;Plain Heart> (<素心>) (CE 2025-03) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/素心.txt)<br/>
     [&lt;West Commissioning Journal> (<使西行记>) (CE 2025-06) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/使西行记.txt)<br/>
-    [&lt;Extraordinary Figures Counting> (<风流人物数>) (by: (CE 1936-02) 毛 泽东; (CE 2025-07) Master ? ; (CE 1934-05-15) 蒋 中正; (CE 825) 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/风流人物数.txt) ]<br/>
+    [&lt;Extraordinary Figures Counting> (<风流人物数>) (by: (CE 1936-02) 毛 泽东; (CE 2025-07) Master ? ; (CE 1934-05-15) 蒋 中正; (CE 825) 杜 牧)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/风流人物数.txt)<br/>
+    [&lt;Sea-Bemuddled> (<海昏>) (CE 2025-08) (by: Master ?)](https://github.com/MasterInQuestion/Honorificabilitudinitatibus/blob/main/Alice%20in%20Wonderland/海昏.txt) ]<br/>
 \
 [ "近词选"<br/>
 (Recent Words Selection)<br/>
